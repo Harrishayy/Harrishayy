@@ -166,7 +166,7 @@ _Signal research, backtesting, and market analysis._
 
 ## Toolbox
 
-`Python` · `C++` · `Go` · `TypeScript` · `Java` · `PyTorch` · `ROS 2` · `OpenCV` · `Linux`
+`Python` · `C++` · `Go` · `TypeScript` · `MATLAB` · `PyTorch` · `ROS 2` · `MuJoCo` · `Isaac Lab` · `Fusion 360` · `Linux`
 
 ---
 
