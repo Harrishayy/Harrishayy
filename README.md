@@ -26,7 +26,7 @@
 
 ## About
 
-My interests span a wide range: robotics, perception and spatial computing (computer vision and SLAM), AI research, reinforcement learning, and simulation. I enjoy working across the stack, from low-level systems to learning-based methods, and tying it all back to real hardware. Right now I'm focused on building robots and [Ultras](https://theultras.vercel.app).
+My interests span a wide range: robotics, perception and spatial computing (computer vision and SLAM), AI research, reinforcement learning, and simulation. I enjoy working across the stack, from low-level systems to learning-based methods, and tying it all back to real hardware. Right now I'm focused on building robots and [Ultras](https://theultras.app).
 
 ---
 
