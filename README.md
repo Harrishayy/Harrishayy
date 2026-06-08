@@ -64,6 +64,7 @@ _Turning pixels into 3D — reconstruction, segmentation, and perception for spa
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
+| **NeMo-Ray** | Raytracing radio propagations of networks in the city of London using SionnaRT on a 3D digital twin, helping improve the Emergency Services Network (ESN) of the UK. Utilised Nemotron-3-Super and CuOpt to determine the fastest and most efficient way to restoring services in London in case of downed signals. | [Repo](https://github.com/Harrishayy/nemoray) |
 | **spatiality_v2** | Reconstructs 3D scenes from video using a Flash-VGGT backbone paired with a multi-stage segmentation pipeline for clean, properly annotated geometry. | Python, PyTorch, VGGT | [Repo](https://github.com/Harrishayy/spatiality_v2) |
 | **Innovation Lab Twin** | Dense 3D digital twin of the UCL robotics lab in Open3D (RGBD registration, pose-graph optimisation, TSDF integration), used as a ground-truth benchmark across 30+ student perception projects. | Open3D, Python | _Private_ |
 | **spatiality** | Lifts 2D photos into 3D meshes using a standard VGGT reconstruction backbone combined with SAM 3 segmentation. | TypeScript, Python, VGGT, SAM 3 | [Repo](https://github.com/Harrishayy/spatiality) |
