@@ -13,11 +13,11 @@
 ---
 
 <p align="center">
-  <a href="#-robotics"><img src="https://img.shields.io/badge/Robotics-1f6feb?style=for-the-badge" /></a>
-  <a href="#-spatial--perception"><img src="https://img.shields.io/badge/Spatial%20%26%20Perception-238636?style=for-the-badge" /></a>
-  <a href="#-ai-research"><img src="https://img.shields.io/badge/AI%20Research-a371f7?style=for-the-badge" /></a>
-  <a href="#-machine-learning"><img src="https://img.shields.io/badge/Machine%20Learning-0891b2?style=for-the-badge" /></a>
-  <a href="#-software--systems"><img src="https://img.shields.io/badge/Software%20%26%20Systems-d1242f?style=for-the-badge" /></a>
+  <a href="#user-content-robotics-open"><img src="https://img.shields.io/badge/Robotics-1f6feb?style=for-the-badge" /></a>
+  <a href="#user-content-spatial-open"><img src="https://img.shields.io/badge/Spatial%20%26%20Perception-238636?style=for-the-badge" /></a>
+  <a href="#user-content-ai-open"><img src="https://img.shields.io/badge/AI%20Research-a371f7?style=for-the-badge" /></a>
+  <a href="#user-content-ml-open"><img src="https://img.shields.io/badge/Machine%20Learning-0891b2?style=for-the-badge" /></a>
+  <a href="#user-content-software-open"><img src="https://img.shields.io/badge/Software%20%26%20Systems-d1242f?style=for-the-badge" /></a>
 </p>
 
 > Click a badge above to jump to a domain, or expand any section below.
@@ -34,6 +34,7 @@ My interests span a wide range: robotics, perception and spatial computing (comp
 
 <details open>
 <summary><b>Autonomous systems, control, and grasp/manipulation</b></summary>
+<a id="robotics-open"></a>
 
 <br />
 
@@ -57,6 +58,7 @@ _Hardware, control, and simulation for real-world robots — from autonomous pla
 
 <details>
 <summary><b>Computer vision, 3D reconstruction, and spatial computing</b></summary>
+<a id="spatial-open"></a>
 
 <br />
 
@@ -80,6 +82,7 @@ _Turning pixels into 3D — reconstruction, segmentation, and perception for spa
 
 <details open>
 <summary><b>Publications & research</b></summary>
+<a id="ai-open"></a>
 
 <br />
 
@@ -101,6 +104,7 @@ _Adaptive multi-agent systems and learning-science-grounded evaluation of LLMs._
 
 <details>
 <summary><b>Reinforcement learning, deep learning, and experiments</b></summary>
+<a id="ml-open"></a>
 
 <br />
 
@@ -120,6 +124,7 @@ _Coursework, competitions, and hands-on ML experiments outside the research trac
 
 <details>
 <summary><b>Systems, full-stack, and applied engineering</b></summary>
+<a id="software-open"></a>
 
 <br />
 
