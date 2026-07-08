@@ -12,6 +12,8 @@
 
 ---
 
+<p align="center"><sub><b>DOMAINS</b></sub></p>
+
 <p align="center">
   <a href="#user-content-robotics-open"><img src="https://img.shields.io/badge/Robotics-1f6feb?style=for-the-badge" /></a>
   <a href="#user-content-spatial-open"><img src="https://img.shields.io/badge/Spatial%20%26%20Perception-238636?style=for-the-badge" /></a>
@@ -21,6 +23,12 @@
 </p>
 
 > Click a badge above to jump to a domain, or expand any section below.
+
+<p align="center"><sub><b>TECH STACK</b></sub></p>
+
+<p align="center">
+  <code>Python</code> · <code>C++</code> · <code>Go</code> · <code>TypeScript</code> · <code>MATLAB</code> · <code>PyTorch</code> · <code>ROS 2</code> · <code>MuJoCo</code> · <code>Isaac Lab</code> · <code>Fusion 360</code> · <code>Linux</code>
+</p>
 
 ---
 
@@ -170,11 +178,5 @@ _Signal research, backtesting, and market analysis._
 
 ---
 ============================================================ -->
-
-## Toolbox
-
-`Python` · `C++` · `Go` · `TypeScript` · `MATLAB` · `PyTorch` · `ROS 2` · `MuJoCo` · `Isaac Lab` · `Fusion 360` · `Linux`
-
----
 
 <p align="center"><sub>Open to roles in robotics, perception, and AI research.</sub></p>
