@@ -144,6 +144,7 @@ _Shipped products and full-stack engineering._
 | **RevisionDojo** | Exam-prep platform: built a Glicko-2 rating system, backend microservices, and two React Native mobile apps, plus reinforcement fine-tuning of models. | TypeScript, Python, React Native | [Site](https://revisiondojo.com) |
 | **Ultras** | A football prediction market, a fresh take on fantasy leagues where users trade on real match outcomes. | TypeScript | [Site](https://theultras.vercel.app) |
 | **uncookd** | Multi-agent teacher-student meeting session that helps students learn through an agentic whiteboard. Next.js frontend over a CrewAI multi-agent Python backend. 🏆 **1st place, AgentVerse Hackathon** (UCL · AWS · Anthropic · Cisco · EF). | TypeScript, Next.js, Python, CrewAI | [Repo](https://github.com/Harrishayy/uncookd) |
+| **tiramisu** | Tells small businesses what to post by mining top-performing YouTube content in their niche and generating shot-by-shot storyboards ranked by outperformance over a channel's own average, not raw views. Next.js web + Expo mobile over a FastAPI backend, using Gemini, Nano Banana, and Veo for generation. | Python, FastAPI, Next.js, React Native | [Repo](https://github.com/Harrishayy/tiramisu) |
 
 **Skills:** TypeScript · Python · React Native · Next.js · Microservices · Full-stack
 
