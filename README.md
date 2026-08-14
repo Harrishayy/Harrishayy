@@ -1,7 +1,7 @@
 <h1 align="center">Harrish Ayyanar</h1>
 
 <p align="center">
-  <i>Engineering @ HyBird · ex-Research Engineer @ Cisco · ex-Engineering @ RevisionDojo · Robotics & AI @ UCL</i>
+  <i>Engineering @ HyBird · ex-Research Engineer @ Cisco · ex-Engineering @ General Learning (YC F24) · Robotics & AI @ UCL</i>
 </p>
 
 <p align="center">
