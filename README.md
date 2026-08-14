@@ -27,7 +27,7 @@
 <p align="center"><sub><b>TECH STACK</b></sub></p>
 
 <p align="center">
-  <code>Python</code> · <code>C++</code> · <code>Go</code> · <code>TypeScript</code> · <code>MATLAB</code> · <code>PyTorch</code> · <code>ROS 2</code> · <code>MuJoCo</code> · <code>Isaac Lab</code> · <code>Fusion 360</code> · <code>Linux</code>
+  <code>Python</code> · <code>C++</code> · <code>Go</code> · <code>TypeScript</code> · <code>React Native</code> · <code>SQL</code> · <code>MATLAB</code> · <code>PyTorch</code> · <code>ROS 2</code> · <code>MuJoCo</code> · <code>Isaac Lab</code> · <code>Fusion 360</code> · <code>Linux</code>
 </p>
 
 ---
