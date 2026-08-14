@@ -122,8 +122,9 @@ _Coursework, competitions, and hands-on ML experiments outside the research trac
 |---|---|---|---|
 | **Nemotron Reasoning Challenge** | 🥈 Silver Medal, 114th place in the [NVIDIA Nemotron Model Reasoning Challenge](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge) (Kaggle). Built a corpus of verifier-checked, faithful derivations from deterministic per-category solvers and a cryptarithm DSL, then fine-tuned a rank-32 LoRA over Nemotron-3-Nano-30B, with synthetic augmentation and RFT self-distillation. | Python, PyTorch, LoRA | [Repo](https://github.com/MehulChourasia28/NVIDIA-NemotronKaggleChallenge) |
 | **Gomoku RL** | AlphaZero-style agent for 9×9 Gomoku: PUCT Monte Carlo Tree Search guided by a dual-headed (policy + value) ResNet trained through self-play, with a Dueling Double DQN baseline. Passed 19/20 tactical benchmarks. | Python, PyTorch | [Repo](https://github.com/EdwinIsCoding/Gomoku_AI) |
+| **Forecasting & WiFi Localisation** | Two end-to-end pipelines. **Time-series:** one-step-ahead forecasting of NSW retail fuel prices over 9 years and 7 fuel grades — a Random Forest on lagged-price and momentum features with a strictly chronological 70/15/15 split to bar leakage, hitting 3.13 cpl test MAE. **High-dimensional regression:** predicting robot X/Y coordinates from 562-access-point WiFi RSSI that is 71.8% no-signal — a regularised MLP (GELU, L2, batch norm, progressive dropout) cutting coordinate MSE 63% versus multi-linear regression, with t-SNE and k-means over the penultimate layer showing the learned features recover spatial structure without coordinate supervision. | Python, scikit-learn, Keras | _Private_ |
 
-**Skills:** Reinforcement learning · Self-play & MCTS · Deep RL · LoRA / SFT fine-tuning · PyTorch
+**Skills:** Reinforcement learning · Self-play & MCTS · Deep RL · LoRA / SFT fine-tuning · Time-series forecasting · Tree ensembles · PyTorch
 
 </details>
 
