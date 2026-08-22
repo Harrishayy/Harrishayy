@@ -50,13 +50,14 @@ _Hardware, control, and simulation for real-world robots — from autonomous pla
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
+| **Boxonwils** | 🏆 **1st place, Robotics Challenge (ROC).** Multi-modal autonomous robot combining SLAM and path planning to navigate complex, unpredictable terrain, with a robust control system (PID line-following over an 11-sensor reflectance array, sonar wall-following, and servo-actuated claws) that avoids collisions while keeping traversal fast. Live PID/speed tuning and a remote kill switch over UDP. | C++, Python, Arduino | [Repo](https://github.com/EdwinIsCoding/Boxonwils) |
 | **Subterra Nav** | Multi-rate EKF fusing IMU, magnetometer, and ToF sensors for 2D localisation of a Mecanum robot. 2nd in cohort at 3.58 cm RMSE. | MATLAB, Simulink | [Repo](https://github.com/EdwinIsCoding/Subterranean_Navigation) |
 | **IGGY** | Autonomous quadruped "robot dog" that detects a ball with YOLO and tracks/pursues it through a PID control loop, running onboard in real time. | Python, YOLO, OpenCV | [Repo](https://github.com/Harrishayy/IGGY) |
 | **Kinesis** | 6-DoF end-effector tracking for a Franka Panda in MuJoCo: residual RL (PPO) layered on a damped-least-squares Jacobian IK feedforward, robust to observation noise and control delay (0.46 mm RMS). | Python, MuJoCo, PyTorch | [Repo](https://github.com/Harrishayy/Kinesis) |
 | **Dynamic-Gripper-Sim** | PyBullet grasping simulation that generates data across gripper-object pairs (2/3-finger, arm) and trains ML classifiers to predict grasp success. | Python, PyBullet, scikit-learn | [Repo](https://github.com/Harrishayy/Dynamic-Gripper-Sim) |
 | **SystemsEngineering_IP** | Stabilised an underactuated physical cart-pole on limited embedded compute; benchmarked LQR, cascaded inner-outer PID, and pole-placement controllers solved offline via the continuous-time Riccati equation and Ackermann's formula. | C++, Python, NumPy | [Repo](https://github.com/Harrishayy/SystemsEngineering_IP) |
 
-**Skills:** EKF / sensor fusion · PID · LQR · Pole placement · MPC · RL (Residual RL, PPO, GRPO) · Grasp planning · MuJoCo / PyBullet · ROS 2
+**Skills:** EKF / sensor fusion · SLAM · Path planning · PID · LQR · Pole placement · MPC · RL (Residual RL, PPO, GRPO) · Grasp planning · MuJoCo / PyBullet · ROS 2
 
 </details>
 
