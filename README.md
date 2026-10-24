@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=_2UtegcAAAAJ&hl=en">Google Scholar</a> ·
   <a href="https://www.linkedin.com/in/harrish-ayyanar/">LinkedIn</a>
+  <a href="https://www.harrishayyanar.com">Portfolio</a>
   <!-- · <a href="https://YOUR-PORTFOLIO-URL">Portfolio</a> -->
 </p>
 
